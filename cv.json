@@ -1,0 +1,77 @@
+{
+  "journals": {
+    "Orts-Escolano2015": {
+      "title": "3D Model Reconstruction using Neural Gas Accelerated on GPU",
+      "authors": ["Sergio Orts Escolano", "José García Rodríguez", "José Antonio Serra Pérez", "Antonio Jimeno Morenilla", "Alberto García García", "Vicente Morell Giménez", "Miguel Ángel Cazorla Quevedo"],
+      "journal": "Applied Soft Computing",
+      "year": 2015,
+      "volume": 32,
+      "pages": [87, 100],
+      "editorial": "Elsevier",
+      "country": "Netherlands",
+      "issn": "1568-4946",
+      "impact_factor": 2.857,
+      "impact_factor_5y": 3.288,
+      "jcr": [
+          {
+            "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+            "rank": [21, 130],
+            "quart": 1,
+          },
+          {
+            "area": ["COMPUTER SCIENCE", "INTERDISCIPLINARY APPLICATIONS"],
+            "rank": [16, 104],
+            "quart": 1,
+          },
+        ],
+      "cites": 5,
+    },
+    "Orts-Escolano2016": {
+      "title": "3D Surface Reconstruction of Noisy Point Clouds using Growing Neural Gas: 3D Object/Scene Reconstruction",
+      "authors": ["Sergio Orts Escolano", "José García Rodríguez", "Vicente Morell Giménez", "Miguel Ángel Cazorla Quevedo", "José Antonio Serra Pérez", "Alberto García García"],
+      "journal": "Neural Processing Letters",
+      "year": 2016,
+      "volume": 43,
+      "pages": [401, 403],
+      "editorial": "Springer US",
+      "country": "United States of America",
+      "issn": "1370-4621",
+      "impact_factor": 1.620,
+      "impact_factor_5y": 1.632,
+      "jcr": [
+          {
+            "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+            "rank": [74, 133],
+            "quart": 3,
+          }
+        ],
+      "cites": 11,
+    },
+    "Garcia-Garcia2016": {
+      "title": "Interactive 3D Object Recognition Pipeline on Mobile GPGPU Computing Platforms using Low-cost RGB-D Sensors",
+      "authors": ["Alberto García García", "Sergio Orts Escolano", "José García Rodríguez", "Miguel Ángel Cazorla Quevedo"],
+      "journal": "Journal of Real-Time Image Processing",
+      "year": 2016,
+      "volume": 14,
+      "pages": [585, 604],
+      "editorial": "Springer Berlin",
+      "country": "Germany",
+      "issn": "1861-8219",
+      "impact_factor": 2.010,
+      "impact_factor_5y": 2.089,
+      "jcr": [
+          {
+            "area": ["IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY"],
+            "rank": [11, 26],
+            "quart": 2,
+          },
+          {
+            "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+            "rank": [54, 133],
+            "quart": 2,
+          }
+        ],
+      "cites": 11,
+    },
+  },
+}
