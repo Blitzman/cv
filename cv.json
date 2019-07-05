@@ -16,15 +16,15 @@
           {
             "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
             "rank": [21, 130],
-            "quart": 1,
+            "quart": 1
           },
           {
             "area": ["COMPUTER SCIENCE", "INTERDISCIPLINARY APPLICATIONS"],
             "rank": [16, 104],
-            "quart": 1,
-          },
+            "quart": 1
+          }
         ],
-      "cites": 5,
+      "cites": 5
     },
     "Orts-Escolano2016": {
       "title": "3D Surface Reconstruction of Noisy Point Clouds using Growing Neural Gas: 3D Object/Scene Reconstruction",
@@ -42,10 +42,10 @@
           {
             "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
             "rank": [74, 133],
-            "quart": 3,
+            "quart": 3
           }
         ],
-      "cites": 11,
+      "cites": 11
     },
     "Garcia-Garcia2016": {
       "title": "Interactive 3D Object Recognition Pipeline on Mobile GPGPU Computing Platforms using Low-cost RGB-D Sensors",
@@ -63,15 +63,318 @@
           {
             "area": ["IMAGING SCIENCE & PHOTOGRAPHIC TECHNOLOGY"],
             "rank": [11, 26],
-            "quart": 2,
+            "quart": 2
           },
           {
             "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
             "rank": [54, 133],
-            "quart": 2,
+            "quart": 2
           }
         ],
-      "cites": 11,
+      "cites": 11
     },
-  },
+    "Orts-Escolano2016b": {
+        "title": "Bioinspired Point Cloud Representation: 3D Object Tracking",
+        "authors": ["Sergio Orts Escolano", "José García Rodríguez", "Miguel Ángel Cazorla Quevedo", "Vicente Morell Giménez", "Jorge Azorín López", "Marcelo Saval Calvo", "Alberto García García", "Víctor Villena Martínez"],
+        "journal": "Neural Computing and Applications",
+        "year": 2016,
+        "volume": 29,
+        "pages": [663, 672],
+        "editorial": "Springer London",
+        "country": "United Kingdom",
+        "issn": "0941-0643",
+        "impact_factor": 2.505,
+        "impact_factor_5y": 2.012, 
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [40, 133],
+                "quart": 2
+            }
+        ],
+        "cites": 0
+    },
+    "Gomez-Donoso2016": {
+        "title": "Automatic Schaffer's Gestures Recognition System",
+        "authors": ["Francisco Gómez Donoso", "Miguel Ángel Cazorla Quevedo", "Alberto García García", "José García Rodríguez"],
+        "journal": "Expert Systems",
+        "year": 2016,
+        "volume": 33,
+        "pages": [480, 488],
+        "editorial": "Wiley",
+        "country": "England",
+        "issn": "0266-4720",
+        "impact_factor": 1.180,
+        "impact_factor_5y": 1.188,
+        "jcr" : [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [91, 133],
+                "quart": 3
+            },
+            {
+                "area": ["COMPUTER SCIENCE", "THEORY & METHODS"],
+                "rank": [59, 104],
+                "quart": 3
+            }
+        ],
+        "cites": 4
+    },
+    "Mora-Mora2016": {
+        "title": "Computational Analysis of Distance Operators for the Iterative Closest Point Algorithm",
+        "authors": ["Higinio Mora Mora", "Jerónimo Manuel Mora Pascual", "Alberto García García", "Pablo Martínez González"],
+        "journal": "PLoS One",
+        "year": 2016,
+        "volume": 11,
+        "pages": [],
+        "editorial": "Public Library of Science",
+        "country": "United States of America",
+        "issn": "1932-6203",
+        "impact_factor": 2.806,
+        "impact_factor_5y": 3.394,
+        "jcr": [
+            {
+                "area": ["MULTIDISCIPLINARY SCIENCES"],
+                "rank": [15, 64],
+                "quart": 1
+            }
+        ],
+        "cites": 11
+    },
+    "Garcia-Garcia2017": {
+        "title": "Multi-sensor 3D Object Dataset for Object Recognition with Full Pose Estimation",
+        "authors": ["Alberto García García", "Sergio Orts Escolano", "Sergiu Ovidiu Oprea", "José García Rodríguez", "Jorge Azorín López", "Marcelo Saval Calvo", "Miguel Ángel Cazorla Quevedo"],
+        "journal": "Neural Computing and Applications",
+        "year": 2017,
+        "volume": 28,
+        "pages": [941, 952],
+        "editorial": "Springer London",
+        "country": "England",
+        "issn": "0941-0643",
+        "impact_factor": 4.215,
+        "impact_factor_5y": 2.697,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [15, 132],
+                "quart": 1
+            }
+        ],
+        "cites": 7
+    },
+    "Saval-Calvo2017": {
+        "title": "Evaluation of Sampling Method Effects in 3D Non-rigid Registration",
+        "authors": ["Marcelo Saval Calvo", "Jorge Azorín López", "Andrés Fuster Guilló", "José García Rodríguez", "Sergio Orts Escolano", "Alberto García García"],
+        "journal": "Neural Computing and Applications",
+        "year": 2017,
+        "volume": 28,
+        "pages": [953, 967],
+        "editorial": "Springer London",
+        "country": "England",
+        "issn": "0941-0643",
+        "impact_factor": 4.215,
+        "impact_factor_5y": 2.697,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [15, 132],
+                "quart": 1
+            }
+        ],
+        "cites": 5
+    },
+    "Gomez-Donoso2017": {
+        "title": "A Robotic Platform for Customized and Interactive Rehabilitation of Persons with Disabilities",
+        "authors": ["Francisco Gómez Donoso", "Sergio Orts Escolano", "Alberto García García", "José García Rodríguez", "John Alejandro Castro Vargas", "Sergiu Ovidiu Oprea", "Miguel Ángel Cazorla Quevedo"],
+        "journal": "Pattern Recognition Letters",
+        "year": 2017,
+        "volume": 99,
+        "pages": [105, 113],
+        "editorial": "Elsevier",
+        "country": "Netherlands",
+        "issn": "0167-8655",
+        "impact_factor": 1.954,
+        "impact_factor_5y": 2.351,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [56, 132],
+                "quart": 2
+            }
+        ],
+        "cites": 8
+    },
+    "Garcia-Garcia2017b": {
+        "title": "A Study of the Effect of Noise and Occlusion on the Accuracy of Convolutional Neural Networks applied to 3D Object Recognition",
+        "authors": ["Alberto García García", "José García Rodríguez", "Sergio Orts Escolano", "Sergiu Ovidiu Oprea", "Francisco Gómez Donoso", "Miguel Ángel Cazorla Quevedo"],
+        "journal": "Computer Vision and Image Understanding",
+        "year": 2017,
+        "volume": 164,
+        "pages": [124, 134],
+        "editorial": "Elsevier",
+        "country": "United States of America",
+        "issn": "1077-3142",
+        "impact_factor": 2.391,
+        "impact_factor_5y": 2.776,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [43, 132],
+                "quart": 2
+            },
+            {
+                "area": ["ENGINEERING", "ELECTRICAL & ELECTRONIC"],
+                "rank": [99, 260],
+                "quart": 2
+            }
+        ],
+        "cites": 5
+    },
+    "Oprea2017": {
+        "title": "A Long Short-Term Memory based Schaeffer Gesture Recognition System",
+        "authors": ["Sergiu Ovidiu Oprea", "Alberto García García", "Sergio Orts Escolano", "Víctor Villena Martínez", "John Alejandro Castro Vargas"],
+        "journal": "Expert Systems",
+        "year": 2017,
+        "volume": 35,
+        "pages": [],
+        "editorial": "Wiley",
+        "country": "England",
+        "issn": "0266-4720",
+        "impact_factor": 1.430,
+        "impact_factor_5y": 1.332,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [75, 132],
+                "quart": 3
+            },
+            {
+                "area": ["COMPUTER SCIENCE", "THEORY & METHODS"],
+                "rank": [48, 103],
+                "quart": 2
+            }
+        ],
+        "cites": 5
+    },
+    "Cano-Esquibel2017": {
+        "title": "Predicción de Solubilidad de Fármacos usando Máquinas de Soporte Vectorial sobre Unidades de Procesamiento Gráfico",
+        "authors": ["Gaspar Cano Esquibel", "José García Rodríguez", "Sergio Orts Escolano", "Alberto García García", "Jorge Peña García", "Alfonso Pérez Garrido", "Horacio Pérez Sánchez"],
+        "journal": "Revista Internacional de Métodos Numéricos para Cálculo y Diseño en Ingeniería",
+        "year": 2017,
+        "volume": 33,
+        "pages": [97, 102],
+        "editorial": "Scipedia",
+        "country": "Spain",
+        "issn": "0213-1315",
+        "impact_factor": 0.369,
+        "impact_factor_5y": 0.436,
+        "jcr": [
+            {
+                "area": ["MATHEMATICS", "INTERDISCIPLINARY APPLICATIONS"],
+                "rank": [99, 103],
+                "quart": 4
+            },
+            {
+                "area": ["ENGINEERING", "MULTIDISCIPLINARY"],
+                "rank": [84, 86],
+                "quart": 4
+            }
+        ],
+        "cites": 3
+    },
+    "Villena-Martinez2017": {
+        "title": "A Quantitative Comparison of Calibration Methods for RGB-D Sensors using Different Technologies",
+        "authors": ["Víctor Villena Martínez", "Andrés Fuster Guilló", "Jorge Azorín López", "Marcelo Saval Calvo", "Jerónimo Manuel Mora Pascual", "José García Rodríguez", "Alberto García García"],
+        "journal": "Sensors",
+        "year": 2017,
+        "volume": 17,
+        "pages": [],
+        "editorial": "MDPI",
+        "country": "Switzerland",
+        "issn": "1424-8220",
+        "impact_factor": 2.475,
+        "impact_factor_5y": 3.014,
+        "jcr": [
+            {
+                "area": ["INSTRUMENTS & INSTRUMENTATION"],
+                "rank": [16, 61],
+                "quart": 2
+            }
+        ],
+        "cites": 5
+    },
+    "Cano-Esquibel2017b": {
+        "title": "Automatic Selection of Molecular Descriptors using Random Forest: Application to Drug Discovery",
+        "authors": ["Gaspar Cano Esquibel", "José García Rodríguez", "Alberto García García", "Horacio Pérez Sánchez", "Jón Atli Benediktsson", "Anil Thapa", "Alastair Barr"],
+        "journal": "Expert Systems with Applications",
+        "year": 2017,
+        "volume": 72,
+        "pages": [151, 159],
+        "editorial": "Pergamon-Elsevier",
+        "country": "United States of America",
+        "issn": "0957-4174",
+        "impact_factor": 3.768,
+        "impact_factor_5y": 3.711,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [20, 132],
+                "quart": 1
+            },
+            {
+                "area": ["ENGINEERING", "ELECTRICAL & ELECTRONIC"],
+                "rank": [42, 260],
+                "quart": 1
+            }
+        ],
+        "cites": 28
+    },
+    "Garcia-Garcia2018": {
+        "title": "A Survey on Deep Learning Techniques for Image and Video Semantic Segmentation",
+        "authors": ["Alberto García García", "Sergio Orts Escolano", "Sergiu Ovidiu Oprea", "Víctor Villena Martínez", "Pablo Martínez González", "José García Rodríguez"],
+        "journal": "Applied Soft Computing",
+        "year": 2018,
+        "volume": 70,
+        "pages": [41, 65],
+        "editorial": "Elsevier",
+        "country": "Netherlands",
+        "issn": "1568-4946",
+        "impact_factor": 4.873,
+        "impact_factor_5y": 4.858,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [20, 133],
+                "quart": 1
+            },
+            {
+                "area": ["COMPUTER SCIENCE", "INTERDISCIPLINARY APPLICATIONS"],
+                "rank": [11, 106],
+                "quart": 1
+            }
+        ],
+        "cites": 284
+    },
+    "Garcia-Rodriguez2019": {
+        "title": "COMBAHO: A Deep Learning System for Integrating Brain Injury Patients in Society",
+        "authors": ["José García Rodríguez", "Francisco Gómez Donoso", "Sergiu Ovidiu Oprea", "Alberto García García", "Miguel Ángel Cazorla Quevedo", "Sergio Orts Escolano", "Zuria Bauer Hartwig", "John Alejandro Castro Vargas", "Félix Escalona Moncholí", "David Ivorra Piqueres", "Pablo Martínez González", "Miguel García Silviente", "Marcelo García Pérez", "José María Cañas Plaza", "Francisco Martín Rico", "Jonathan Ginés Clavero", "Francisco Rivas Montero", "Eugenio Aguirre Molina"],
+        "journal": "Pattern Recognition Letters",
+        "year": 2019,
+        "volume": 0,
+        "pages": [],
+        "editorial": "Elsevier",
+        "country": "Netherlands",
+        "issn": "0167-8655",
+        "impact_factor": 2.810,
+        "impact_factor_5y": 2.822,
+        "jcr": [
+            {
+                "area": ["COMPUTER SCIENCE", "ARTIFICIAL INTELLIGENCE"],
+                "rank": [50, 133],
+                "quart": 2
+            }
+        ],
+        "cites": 0
+    }
+  }
 }
