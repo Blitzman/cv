@@ -711,6 +711,17 @@
             "ips": ["Sergio Orts Escolano"],
             "contribution": "Investigación en técnicas de generación y etiquetado de datos sintéticos para tareas de reconocimiento de objetos 3D. Desarrollo de la herramienta UnrealROX para la generación automática de datos sintéticos en realidad virtual.",
             "position": "Investigador Predoctoral"
+        },
+        "combaho": {
+            "title":"RETOGAR: Sistema de Mejora de la Autonomía de Personas con Daño Cerebral Adquirido y Dependientes en su Integración en la Sociedad",
+            "funding_entities": ["Ministerio de Economía y Competitividad"],
+            "type": "National",
+            "participant_entities": ["Universidad de Alicante", "Universidad Rey Juan Carlos", "Universidad de Granada"],
+            "from": "01/01/2017",
+            "to": "31/12/2019",
+            "ips": ["José García Rodríguez", "Miguel Ángel Cazorla Quevedo"],
+            "contribution": "Colaboración en tareas de investigación sobre reconocimiento de objetos 3D y generación de datos sintéticos para el entrenamiento de redes neuronales profundas.",
+            "position": "Investigador Predoctoral Colaborador"
         }
     },
     "conferences": {
@@ -863,6 +874,47 @@
             "volume": 0,
             "pages": []
         }
+    },
+    "books": {
+        "CUDA2019" : {
+            "title": "Introducción a la Programación de GPUs usando CUDA",
+            "authors": ["Alberto García García", "Sergio Orts Escolano", "José María Cecilia Canales", "José García Rodríguez"],
+            "year": 2019,
+            "contry": "Spain",
+            "editorial": "Ra-Ma",
+            "isbn": 9788499648552
+        }
+    },
+    "grants" : {
+        "colaboracion": {
+            "type": "Predoctoral",
+            "purpose": "Beca de Colaboración",
+            "funding_entities": ["Universidad de Alicante", "Departamento de Tecnología Informática y Computación"],
+            "from": "01/01/2015",
+            "to": "06/06/2015",
+            "months": 6,
+            "institution": "Universidad de Alicante",
+            "center": "Departamento de Tecnología Informática y Computación"
+        },
+        "iniciacion": {
+            "type": "Predoctoral",
+            "purpose": "Ayudas para estudios de Máster e iniciación a la investigación",
+            "funding_entities": ["Universidad de Alicante"],
+            "from": "01/01/2016",
+            "to": "30/06/2016",
+            "months": 6,
+            "institution": "Universidad de Alicante",
+            "center": "Departamento de Tecnología Informática y Computación"
+        },
+        "fpu": {
+            "type": "Predoctoral",
+            "purpose": "Ayuda para formación para el profesorado universitario  FPU15/04516 ",
+            "funding_entities": ["Ministerio de Ciencia, Innovación y Universidades"],
+            "from": "01/09/2016",
+            "to": "15/11/2019",
+            "months": 38,
+            "institution": "Universidad de Alicante",
+            "center": "Departamento de Tecnología Informática y Computación"
+        }
     }
-
 }
